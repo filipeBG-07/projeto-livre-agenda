@@ -1,0 +1,33 @@
+  o projeto será uma agenda de uma barbearia para marcar os horários dos procedimentos disponíveis para cada funcionário.
+  o código deve ser capaz de marcar determinados hórarios de procedimentos como corte de cabelo,barba, corte e barba,
+pintar cabelo e hidratação, tudo isso, com um determinado número de funcionários no salão.
+  o código também deve ser capaz de salvar na memória as interações do usuário de marcar e desmarcar horários em um
+banco de dados e deve ter uma interface para o usuário realizar a marcação de horários e a escolha do profissional que
+fará o procedimento.
+  além da marcação dos horários, deverá também mostrar o valor de cada procedimento que será feito.
+  marcação de horários: a agenda deverá mostrar primeiramente,em sua interface, a escolha do profissional que realizará
+o procedimento desejado. Após a escolha, mostrará as opcções dos procedimentos disponíveis com esse profissional e logo
+em seguida os horários disponíveis.
+  cada funcionário terá uma jornada de trabalho de 10 horas, com um intervalo de 1:30 para o almoço. os horários disponíveis
+começarão as 8 e terão um intervalo de 30 minutos entre cada horário,para a realização do procedimento marcado
+(EXEMPLO: 8:00 / 8:30 / 9:30 ... / 11:30 / 13:00).
+  Os procedimentos irão ter preços determinados:
+  -corte de cabelo: $35,00
+  -barba: $20,00
+  -corte e barba: $50,00
+  -pintar o cabelo: $90,00
+  -pintar o cabelo e corte de cabelo: $120,00
+  -pintar o cabelo,corte e barba: $140,00
+  -hidratação: $30,00
+  -hidratação e corte: $65,00
+  -hidratação, corte e barba: $80,00
+
+  o nome dos funcionários disponíveis são : filipe, luis, amaral, mateus
+
+
+
+
+
+
+
+
